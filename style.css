@@ -40,7 +40,7 @@ nav li a:hover{
 color: rgb(240, 61, 61);
 }
 .main-box{
-
+height: auto;
     display: flex;
     justify-content: space-around;
     margin: 15px 0;
@@ -172,7 +172,7 @@ font-size: 25px;
 .final{
     display: flex;
     align-items: center;
-    justify-content: center;
+text-align: center;
     padding: 10px;
     font-size: 2rem;
     background-color: rgb(22, 22, 161);
